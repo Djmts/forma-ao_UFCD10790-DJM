@@ -1,2 +1,4 @@
-# forma-ao_UFCD10790-DJM
-Repositório da formação
+# Feedback aplication
+Descrição: uma aplicação de formação
+Funcionalidades: Criar conta, fazer login
+
